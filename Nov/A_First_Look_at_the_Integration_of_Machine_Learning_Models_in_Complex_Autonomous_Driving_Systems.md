@@ -9,6 +9,18 @@ This paper takes a first look at the integration of machine learning models in t
 ## Metadata
 Zi Peng, Jinqiu Yang, Tse-Hsun (Peter) Chen, and Lei Ma. 2020. A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo. In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 1240–1250. DOI:https://doi.org/10.1145/3368089.3417063
 
-## Key Insights
+## Insights and Ideas
 
-## Comments
+> Despite extensive study on ML models, it still lacks a comprehensive empirical study towards understanding the ML model roles, peculiar architecture and complexity of ADS.
+
+> We present our findings on how the ML models interact with each other, and how the ML models are integrated with code logic to form a complex system.
+
+Well, at least it proves that the Apollo system can be analyzed by several researchers.
+
+> lack of adequate tests in general
+
+Although automated driving system is safety-critical, it still lacks of adequate tests in general. Lack of manpower may explain the problem, but can the system be "no-easy-to-test"? Put a new word here -- testability which represents the difficulty to test a software system. Maybe the testability is low and how can we improve it? I don't know whether there are similar concepts in software engineering communities.
+
+
+
+## Organize Research Questions
