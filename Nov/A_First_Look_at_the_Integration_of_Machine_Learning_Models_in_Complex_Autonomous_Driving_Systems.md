@@ -7,6 +7,7 @@ Currently, I am working on analyzing trustworthy AI systems with static analysis
 This paper takes a first look at the integration of machine learning models in the autonomous driving system, which is helpful for me to understand my project, e.g. the feasibility to analyzing a large-scale autonomous driving system.
 
 ## Metadata
+Zi Peng, Jinqiu Yang, Tse-Hsun (Peter) Chen, and Lei Ma. 2020. A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo. In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 1240–1250. DOI:https://doi.org/10.1145/3368089.3417063
 
 ## Key Insights
 
