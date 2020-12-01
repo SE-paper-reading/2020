@@ -3,10 +3,11 @@ We use this page to host our paper reading notes related to Software Engineering
 
 # 2020
 ## Dec 1
-[Code Recommendation for Exception Handling - FSE - 2020](./Nov/Code_Recommendation_for_Exception_Handling.md)
+[Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2](./Dec/ad-hoc_document_retrievel.md)
+
+[Code Recommendation for Exception Handling - FSE - 2020](./Dec/Code_Recommendation_for_Exception_Handling.md)
 
 ## Nov 30
-
 [A First Look at the Integration of Machine Learning Models in Complex Autonomous Driving Systems - Chen - 2020](./Nov/A_First_Look_at_the_Integration_of_Machine_Learning_Models_in_Complex_Autonomous_Driving_Systems.md)
 
 [DRAST - A Deep Learning and AST Based Approach for Bug Localization](./Nov/DRAST.md)
