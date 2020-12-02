@@ -5,6 +5,8 @@ We use this page to host our paper reading notes related to Software Engineering
 ## Dec 2
 [Where should the bugs be fixed More accurate information retrieval-based bug localization based on bug reports - ICSE - 2012](./Dec/Where_should_the_bugs_be_fixed.md)
 
+[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](./Dec/sentence-bert.md)
+
 ## Dec 1
 [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2](./Dec/ad-hoc_document_retrievel.md)
 
