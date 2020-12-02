@@ -2,6 +2,9 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 2
+[Where should the bugs be fixed More accurate information retrieval-based bug localization based on bug reports - ICSE - 2012](./Dec/Where_should_the_bugs_be_fixed.md)
+
 ## Dec 1
 [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2](./Dec/ad-hoc_document_retrievel.md)
 
