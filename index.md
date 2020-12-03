@@ -2,6 +2,9 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 3
+[TraceSim: A Method for Calculating Stack Trace Similarity - Workshop on Machine Learning Techniques for Software Quality Evolution - 2020](./Dec/TraceSim_A_Method_for_Calculating_Stack_Trace_Similarity.md) - [[Paper](https://arxiv.org/pdf/2009.12590.pdf)]  [[Code](https://github.com/traceSimSubmission/trace-sim)]
+
 ## Dec 2
 [Where should the bugs be fixed More accurate information retrieval-based bug localization based on bug reports - ICSE - 2012](./Dec/Where_should_the_bugs_be_fixed.md)
 
