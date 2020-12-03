@@ -5,6 +5,8 @@ We use this page to host our paper reading notes related to Software Engineering
 ## Dec 3
 [TraceSim: A Method for Calculating Stack Trace Similarity - Workshop on Machine Learning Techniques for Software Quality Evolution - 2020](./Dec/TraceSim_A_Method_for_Calculating_Stack_Trace_Similarity.md) - [[Paper](https://arxiv.org/pdf/2009.12590.pdf)]  [[Code](https://github.com/traceSimSubmission/trace-sim)]
 
+[A Soft Alignment Model for Bug Deduplication](./Dec/A_Soft_Alignment_Model_for_Bug Deduplication.md)
+
 ## Dec 2
 [Where should the bugs be fixed More accurate information retrieval-based bug localization based on bug reports - ICSE - 2012](./Dec/Where_should_the_bugs_be_fixed.md)
 
