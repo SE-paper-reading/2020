@@ -90,7 +90,7 @@ A good logic to state motivations. 1) Background -> 2) Lack of solution -> 3) Hi
 
 > Therefore, to provide guidance on future research on improving the testing of AI-powered system, in this RQ, we present our analysis results on the ML model interactions and how code plays a role in such interactions, e.g. pre-, post-processing and validation steps.
 
-之前看到过一篇论文，用static analysis来做ML的数据接口/格式的分析，没准可以用来处理这个问题？
+之前看到过一篇论文，用static analysis来做ML的数据接口/格式的分析，没准可以用来处理这个问题？[Ariadne](../Dec/Ariadne.md)
 
 #### Apollo中模型间交互的几种模式
 * All the output of one ML model is used exclusively and entirely by another ML model as input.
