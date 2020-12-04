@@ -5,6 +5,8 @@ We use this page to host our paper reading notes related to Software Engineering
 ## Dec 4
 [Ariadne: Analysis for Machine Learning Programs - MAPL@PLDI - 2018](./Dec/Ariadne.md) - [[Paper](https://arxiv.org/pdf/1805.04058.pdf)][[Project Website](https://wala.github.io/ariadne/)]
 
+[Explainable AI for Software Engineering](Explainable_AI_for_Software_Engineering.md)
+
 ## Dec 3
 [TraceSim: A Method for Calculating Stack Trace Similarity - Workshop on Machine Learning Techniques for Software Quality Evolution - 2020](./Dec/TraceSim_A_Method_for_Calculating_Stack_Trace_Similarity.md) - [[Paper](https://arxiv.org/pdf/2009.12590.pdf)]  [[Code](https://github.com/traceSimSubmission/trace-sim)]
 
