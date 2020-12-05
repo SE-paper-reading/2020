@@ -4,6 +4,7 @@ We use this page to host our paper reading notes related to Software Engineering
 # 2020
 ## Dec 5
 [Correlations between Deep Neural Network Model Coverage Criteria and Model Quality - FSE - 2020](./Dec/Correlations_between_Deep_Neural_Network_Model_Coverage_Criteria_and_Model_Quality.md) - [[paper](https://www.cs.purdue.edu/homes/taog/docs/FSE20.pdf)]
+[Train One Get One Free: Partially Supervised Neural Network for Bug Report Duplicate Detection and Clustering](Train_One_Get_One_Free_Partially_Supervised_Neural.md)
 
 ## Dec 4
 [Ariadne: Analysis for Machine Learning Programs - MAPL@PLDI - 2018](./Dec/Ariadne.md) - [[Paper](https://arxiv.org/pdf/1805.04058.pdf)][[Project Website](https://wala.github.io/ariadne/)]
