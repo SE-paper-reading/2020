@@ -2,6 +2,9 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 5
+[Correlations between Deep Neural Network Model Coverage Criteria and Model Quality - FSE - 2020](./Dec/Correlations_between_Deep_Neural_Network_Model_Coverage_Criteria_and_Model_Quality.md) - [[paper](https://www.cs.purdue.edu/homes/taog/docs/FSE20.pdf)]
+
 ## Dec 4
 [Ariadne: Analysis for Machine Learning Programs - MAPL@PLDI - 2018](./Dec/Ariadne.md) - [[Paper](https://arxiv.org/pdf/1805.04058.pdf)][[Project Website](https://wala.github.io/ariadne/)]
 
