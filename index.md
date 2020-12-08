@@ -2,8 +2,12 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 7
+[Getafix: Learning to fix bugs automatically](./Dec/Getafix.md) - [[paper](https://arxiv.org/pdf/1902.06111v2.pdf)] - [[online article](https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)]
+
 ## Dec 5
 [Correlations between Deep Neural Network Model Coverage Criteria and Model Quality - FSE - 2020](./Dec/Correlations_between_Deep_Neural_Network_Model_Coverage_Criteria_and_Model_Quality.md) - [[paper](https://www.cs.purdue.edu/homes/taog/docs/FSE20.pdf)]
+
 [Train One Get One Free: Partially Supervised Neural Network for Bug Report Duplicate Detection and Clustering](Train_One_Get_One_Free_Partially_Supervised_Neural.md)
 
 ## Dec 4
