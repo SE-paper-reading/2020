@@ -2,6 +2,10 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+# Dec 9
+[Statistical Machine Translation Outperforms Neural Machine Translation in Software Engineering: Why and How](./Dec/statistical_outperforms.md)
+
+
 ## Dec 7
 [Getafix: Learning to fix bugs automatically](./Dec/Getafix.md) - [[paper](https://arxiv.org/pdf/1902.06111v2.pdf)] - [[online article](https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)]
 
