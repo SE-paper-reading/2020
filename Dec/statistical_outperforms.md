@@ -5,7 +5,7 @@
 
 ## Summary
 
-> In this work, we provide a hypothesis that SE corpus has inherent characteristics that NMT will confront challenges compared to the state-of-the-art translation engine based on Statistical Machine Translation.
+a hypothesis that SE corpus has inherent characteristics that NMT will confront challenges compared to the state-of-the-art translation engine based on Statistical Machine Translation.
 
 Prefix Mapping:
 > We introduce a problem which is significant in SE and has characteristics that challenges the ability of NMT to learn correct sequences, called Prefix Mapping.

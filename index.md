@@ -2,7 +2,10 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
-# Dec 9
+## Dec 10
+[Tailoring Taint Analysis to GDPR](./Dec/tailoring_taint_analysis_to_gdpr.md)
+
+## Dec 9
 [Statistical Machine Translation Outperforms Neural Machine Translation in Software Engineering: Why and How](./Dec/statistical_outperforms.md)
 
 
