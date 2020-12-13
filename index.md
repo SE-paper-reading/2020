@@ -2,6 +2,13 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 7 - 13
+[TaskTracker-tool: a Toolkit for Tracking of Code Snapshots and Activity Data During Solution of Programming Tasks](TaskTracker-tool.md)
+
+[CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning](./Dec/CRaDLe.md)
+
+[Billion-scale similarity search with GPUs](./Dec/Billion_scale_similarity_search_with_GPUs)
+
 ## Dec 10
 [Tailoring Taint Analysis to GDPR](./Dec/tailoring_taint_analysis_to_gdpr.md)
 
