@@ -2,8 +2,10 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 14 - 20
+[](./Dec/dont_panic.md)
 ## Dec 7 - 13
-[TaskTracker-tool: a Toolkit for Tracking of Code Snapshots and Activity Data During Solution of Programming Tasks](TaskTracker-tool.md)
+[TaskTracker-tool: a Toolkit for Tracking of Code Snapshots and Activity Data During Solution of Programming Tasks](./Dec/TaskTracker-tool.md)
 
 [CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning](./Dec/CRaDLe.md)
 
