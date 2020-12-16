@@ -3,7 +3,8 @@ We use this page to host our paper reading notes related to Software Engineering
 
 # 2020
 ## Dec 14 - 20
-[](./Dec/dont_panic.md)
+[Don’t Panic! Better, Fewer, Syntax Errors for LR Parsers](./Dec/dont_panic.md)
+
 ## Dec 7 - 13
 [TaskTracker-tool: a Toolkit for Tracking of Code Snapshots and Activity Data During Solution of Programming Tasks](./Dec/TaskTracker-tool.md)
 
