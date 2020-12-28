@@ -9,6 +9,8 @@ We use this page to host our paper reading notes related to Software Engineering
 
 [In AI We Trust? Factors that influence trustworthiness of AI-infused Decision-Making Processes](./Dec/in_ai_we_trust.md)
 
+[Associating Natural Language Comment and Source Code Entities - AAAI - 2019](./Dec/comments_and_source_code_entities.md)
+
 ## Dec 14 - 20
 [Don’t Panic! Better, Fewer, Syntax Errors for LR Parsers](./Dec/dont_panic.md)
 
