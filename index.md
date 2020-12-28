@@ -2,6 +2,9 @@
 We use this page to host our paper reading notes related to Software Engineering (SE). Hope this page could last for a long time.
 
 # 2020
+## Dec 21 - 27
+[Ask not what AI can do, but what AI should do: Towards a framework of task delegability - NIPS](./Dec/Ask_what_AI_can_do.md)
+
 ## Dec 14 - 20
 [Don’t Panic! Better, Fewer, Syntax Errors for LR Parsers](./Dec/dont_panic.md)
 
