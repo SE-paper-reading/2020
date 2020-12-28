@@ -33,7 +33,7 @@ We use this page to host our paper reading notes related to Software Engineering
 [Explainable AI for Software Engineering](./Dec/Explainable_AI_for_Software_Engineering.md)
 
 ## Dec 3
-[TraceSim: A Method for Calculating Stack Trace Similarity - Workshop on Machine Learning Techniques for Software Quality Evolution - 2020](./Dec/TraceSim_A_Method_for_Calculating_Stack_Trace_Similarity.md) - [[Paper](https://arxiv.org/pdf/2009.12590.pdf)]  [[Code](https://github.com/traceSimSubmission/trace-sim)]
+[TraceSim: A Method for Calculating Stack Trace Similarity - Workshop on Machine Learning Techniques for Software Quality Evolution - 2020](./Dec/TraceSim_A_Method_for_Calculating_S\tack_Trace_Similarity.md) - [[Paper](https://arxiv.org/pdf/2009.12590.pdf)]  [[Code](https://github.com/traceSimSubmission/trace-sim)]
 
 [A Soft Alignment Model for Bug Deduplication](./Dec/A_Soft_Alignment_Model_for_Bug Deduplication.md)
 
