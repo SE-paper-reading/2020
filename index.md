@@ -7,6 +7,8 @@ We use this page to host our paper reading notes related to Software Engineering
 
 [Humans in the Loop: The Design of Interactive AI Systems](./Dec/human_in_the_loop.md)
 
+[In AI We Trust? Factors that influence trustworthiness of AI-infused Decision-Making Processes](./Dec/in_ai_we_trust.md)
+
 ## Dec 14 - 20
 [Don’t Panic! Better, Fewer, Syntax Errors for LR Parsers](./Dec/dont_panic.md)
 
